@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:page_view/wg/botao.dart';
 import 'package:page_view/wg/field.dart';
 
 class CadastroPageView extends StatelessWidget {
@@ -53,6 +54,17 @@ class CadastroPageView extends StatelessWidget {
                         fontSize: 18),
                   ),
                   Field(senha: 0),
+                  const SizedBox(height: 10),
+                  SizedBox(
+                    width: double.infinity,
+                    child: Botao(
+                      fundo: Colors.cyan,
+                      label: 'Registrar',
+                      corText: Colors.white,
+                      corBorda: Colors.cyan,
+                      ontap: () {},
+                    ),
+                  ),
                 ],
               ),
             )),

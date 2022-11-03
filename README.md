@@ -17,6 +17,8 @@
 >O objetivo primordial é promover a prática em usar o wigget de PageView.
 
 ## Tela
+<img src="https://user-images.githubusercontent.com/37612961/199853241-4adff675-63b0-44b9-bea3-331ff128075e.png" width=30% > <img src="https://user-images.githubusercontent.com/37612961/199853324-c329d2de-7089-42cc-9bf8-b09e0d3bcc5e.png" width=30% > <img src="https://user-images.githubusercontent.com/37612961/199853377-2fc35f23-5636-42a7-863f-b8bd21e70f3e.png" width=30% >
+
 
 ## Conheça o Flutter e cria apps lindos
 Este é um ponto de partida para uma aplicação Flutter. Alguns recursos para você começar se este for seu primeiro encontro com o Flutter:
